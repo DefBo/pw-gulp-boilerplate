@@ -1,0 +1,2 @@
+2020-11-28 11:47:28	guest	http://centurion:8888/processwire/login/	SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ProcessLogger' for key 'class' (in /wire/core/WireDatabasePDOStatement.php line 166)
+2020-11-28 11:47:28	guest	http://centurion:8888/processwire/login/	SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'InputfieldIcon' for key 'class' (in /wire/core/WireDatabasePDOStatement.php line 166)
